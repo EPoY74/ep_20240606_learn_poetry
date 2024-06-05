@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ep-20240606-learn-poetry"
+version = "0.1.0"
+description = ""
+authors = ["Eugenii Petrov <p174@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
